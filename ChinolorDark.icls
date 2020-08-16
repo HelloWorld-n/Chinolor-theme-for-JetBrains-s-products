@@ -1,11 +1,11 @@
-<scheme name="Chinolor" version="142">
+<scheme name="ChinolorDark" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-08-16T12:11:47</property>
+    <property name="created">2020-08-16T12:16:28</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-08-16T12:11:59</property>
-    <property name="originalScheme">Chinolor</property>
+    <property name="modified">2020-08-16T12:16:41</property>
+    <property name="originalScheme">ChinolorDark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -1108,12 +1108,14 @@
     </option>
     <option name="JAVA.PRIMITIVE">
       <value>
-        <option name="FOREGROUND" value="ff5874" />
+        <option name="FOREGROUND" value="57c3c2" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA.THIS_SUPER">
       <value>
-        <option name="FOREGROUND" value="7fdbca" />
+        <option name="FOREGROUND" value="ee3f4d" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JFLEX_MACROS_REF">
