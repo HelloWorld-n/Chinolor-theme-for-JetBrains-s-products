@@ -1,10 +1,10 @@
 <scheme name="ChinolorDark" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-08-16T12:18:31</property>
-    <property name="ide">Idea</property>
-    <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-08-16T12:18:41</property>
+    <property name="created">2020-08-16T12:29:29</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2020.1.3.0.0</property>
+    <property name="modified">2020-08-16T12:29:38</property>
     <property name="originalScheme">ChinolorDark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2759,17 +2759,6 @@
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
-      </value>
-    </option>
-    <option name="PY.DECORATOR">
-      <value>
-        <option name="FOREGROUND" value="82aaff" />
-      </value>
-    </option>
-    <option name="PY.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
